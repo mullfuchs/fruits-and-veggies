@@ -1,1 +1,9 @@
 /* file for your css */
+
+.arrowButton{
+  display: inline;
+}
+
+.red{
+  background-color: red;
+}
